@@ -1,0 +1,1 @@
+kiota generate -l CSharp -c ToDoApiClient -n ToDoClient.ApiClient -d https://localhost:7206/openapi/openapi.yaml -o ./src/Client

@@ -1,0 +1,8 @@
+{
+  "cSpell.words": [
+    "openapi",
+    "Usings",
+    "xunit"
+  ],
+  "dotnet-test-explorer.testProjectPath": "**/*.sln"
+}
